@@ -4,5 +4,3 @@ Platform:Select any platform to search game in tha category.
 Score:Minimum:- Minimum score of game.
 Score:Maximum:- Maximum score of game.
 
-Sample Demo URL:
-https://demo-itssb.000webhostapp.com/wdd/
